@@ -79,4 +79,11 @@ class UsersController extends Controller
 
         return redirect()->route('users.show', $user);
     }
+
+    public function destroy(User $user)
+    {
+        $user->delete();
+        session()->flash('success', 'User deleted successfully！');
+        return back();
+    }
 }
