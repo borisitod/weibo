@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10aad8a5-ddd6-4a04-be7d-e4dfe53747dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/emails/confirm.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/auth/passwords/email.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/emails/reset_link.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/SessionsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/SessionsController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/factories/UserFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/factories/UserFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/sessions/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/sessions/create.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="PhpDebugGeneral" ignore_connections_through_unregistered_servers="true" listening_started="true" />
+  <component name="PhpDebugGeneral" ignore_connections_through_unregistered_servers="true" />
   <component name="PhpServers">
     <servers>
       <server host="weibo.test" id="5a74d53b-23ce-4888-81a1-c0d65ee291e6" name="test" use_path_mappings="true">
@@ -189,7 +187,7 @@
       <workItem from="1608952133431" duration="4198000" />
       <workItem from="1608959762560" duration="333000" />
       <workItem from="1609222049264" duration="2592000" />
-      <workItem from="1609311907197" duration="1637000" />
+      <workItem from="1609311907197" duration="2404000" />
     </task>
     <servers />
   </component>
