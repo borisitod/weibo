@@ -7,7 +7,7 @@
         <section class="status_form">
           @include('shared._status_form')
         </section>
-        <h4>Twitter list</h4>
+        <h4>Tweet list</h4>
         <hr>
         @include('shared._feed')
       </div>
